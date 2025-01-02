@@ -1,14 +1,16 @@
 ### Hi 👋, I'm Javier
 
-#### Data Scientist & Data Engineer with a background in Geotechnical Civil Engineering
+#### Machine Learning Engineer & Data Scientist & with a background in Geotechnical Civil Engineering
 
 ---
 
-I've recently finished a Data Science intensive coding bootcamp at Le Wagon. During the bootcamp I completed a group project building [GoalGuru ⚽](https://goalguru.streamlit.app/) a web app that predicts probabilities for outcomes of football games using Machine Learning.
+Currently working as a Machine Learning Engineer at Rovisen, where I have contributed to the development of [CartoSight](https://www.linkedin.com/pulse/cartosight-buildings-rovisen-vaiae/), a tool that automatically generates cartographic maps by processing aerial images with deep learning models and post-processing algorithms.
+
+I finished a Data Science intensive coding bootcamp at Le Wagon. During the bootcamp I completed a group project building [GoalGuru ⚽](https://goalguru.streamlit.app/) a web app that predicts probabilities for outcomes of football games using Machine Learning.
 
 I'm looking forward to leverage a robust analytical mindset, communication skills and a keen problem-solving aptitude to drive informed decision-making.
 
-- 🌱 I’m currently interested in further learning about cloud technologies and Data Engineering
+- 🌱 I’m currently interested in further learning about cloud technologies, Data Engineering, geoinformation, and geointelligence.
 - 📫 How to reach me: **jonavarrete@uc.cl**
 - 📄 Know about my experience in [LinkedIn](https://linkedin.com/in/javier-navarrete)
 
