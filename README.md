@@ -14,7 +14,14 @@ I'm looking forward to leverage a robust analytical mindset, communication skill
 - 📫 How to reach me: **jonavarrete@uc.cl**
 - 📄 Know about my experience in [LinkedIn](https://linkedin.com/in/javier-navarrete)
 
+### Languages and technologies:
+<!--
+from https://skillicons.dev/
+![My Skills](https://skillicons.dev/icons?i=aws,bash,c,docker,fastapi,gcp,git,github,latex,matlab,octave,mongodb,mysql,opencv,postgres,py,pytorch,r,raspberrypi,ruby,sqlite,sklearn,tensorflow,ubuntu,vscode)
+-->
+![Skills](https://skills-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,sclearn,huggingface,jupyter,fastapi,streamlit,docker,sqlite,mysql,postgresql,mongodb,aws,gcloud,bash,git,github,c,r,ruby,matlab,octave,latex,md,opencv,raspberrypi,ubuntu,vscode)
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -36,7 +43,7 @@ I'm looking forward to leverage a robust analytical mindset, communication skill
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" alt="vba" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
-
+-->
 
 <!--
 **jotanavarrete/jotanavarrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
